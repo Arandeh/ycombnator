@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ @font-face {
+     font-family: Avenir;
+     src: url(./AvenirLTStd-Roman.otf);
+   }
+body {
+     font-family: Avenir,Helvetica,Arial,sans-serif;
+   }
+   .max-w-100 {max-width: 100%;} .h-auto {height: auto;} .w-100 {width: 100%;}
+   .bg-orange{background-color:#fb651e;} .bg-gray{background-color:#fefdfd;} .bg-white{background-color: white;}
+   .text-color-black{color: black;} .text-color-white {color: white;}
+   .display-inline{display: inline;}
+
+
+   .image {
+    width: 56px;
+    height: 56px;
+}
